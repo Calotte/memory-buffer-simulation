@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BMgr">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEIDEAAgACAACAQRAAABAABEAAAQBgBgAEAAA=</HashCode>
+      <FileName>BMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DSMgr">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAgCAIAAABACAAAAAAQQAAAAQEAAAAEAAAABA=</HashCode>
+      <FileName>DSMgr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LRU">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABEAAABAAAABEAAIAAAAAAQAAABAAACBAAAAQQ=</HashCode>
+      <FileName>LRU.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BCB">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>BCB.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="bFrame" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>bFrame.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LRUEle">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIgAAA=</HashCode>
+      <FileName>LRU.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
